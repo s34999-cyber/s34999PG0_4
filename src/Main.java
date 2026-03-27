@@ -8,8 +8,5 @@ public class Main {
         System.out.println(m3);
         System.out.println(m3.equals(m1));
         System.out.println(m3.equals(m3copy));
-        CafeCustomer c1 = new CafeCustomer(9,"Rodion","Raskolnikow","buglover@lcb.com");
-        CafeCustomer c2 = new CafeCustomer(13,"Gregor", "Samsa", "gregorSamsa@lcb.com");
-        System.out.println(c1);
     }
 }
